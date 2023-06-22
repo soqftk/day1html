@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+        <img src="my.jpg" width="200" height="260">        
+
+    <h1>Website and application development</h1>
+
+     <a href="tel:380685514103">Contacts</a>
+     
+    <h2>If you need to create a quality website, then you are in the right place </h2>
+
+    <h3>Best price</h3>
+  
+     <div>
+         <p>Here you can find a lot of information about how to develop websites</p>
+             
+             
+             
+             <p>To develop a site, you need to provide me with the following information: </p>
+                 
+                 
+                </div>
+                
+
+                <section>
+                    <ul>
+                      <li>Site layout</li>
+                      <li>Text content</li>
+                      <li>Domain and hosting</li>
+                
+                
+                    </ul>
+                
+                    </section>
+                    
+    <p>Please contact me: </p>
+     
+    <p><a href="tel:380685514103">Number</a></p>
+    <p><a href="mailto:sofia.tkatschuk1@gmail.com">Gmail</a></p>
+
+
+    <header>
+
+
+    </header>
+    <footer>
+        <p></p>
+
+    </footer>
+
+
+</body>
+</html>
